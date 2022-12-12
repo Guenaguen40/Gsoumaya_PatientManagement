@@ -1,0 +1,19 @@
+{
+  "name": "gsoumaya_patientmanagement",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Guenaguen40/Gsoumaya_PatientManagement.git"
+  },
+  "author": "soumaya guenaguen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Guenaguen40/Gsoumaya_PatientManagement/issues"
+  },
+  "homepage": "https://github.com/Guenaguen40/Gsoumaya_PatientManagement#readme"
+}
